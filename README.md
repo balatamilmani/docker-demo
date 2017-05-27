@@ -5,7 +5,7 @@ This is a simple WebApplication which can be used as a sample application to cre
 Dockerfile
 ----------
 FROM tomcat:8.0-jre8
-MAINTAINER bala@bala.com
+MAINTAINER balamurugan.leo@gmail.com
 
 ADD docker-web-app.war /usr/local/tomcat/webapps/docker-web-app.war
 
