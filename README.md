@@ -1,6 +1,6 @@
 # docker-demo
 
-This is a simple WebApplication which can be used as a sample application to create a image for a Docker Container using the follwoing Dockerfile 
+This is a simple WebApplication which can be used as a sample application to create an image for a Docker Container using the follwoing Dockerfile 
 
 #docker-web-app
 Dockerfile
